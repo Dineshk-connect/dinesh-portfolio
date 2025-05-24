@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dinesh-portfolio/static/css/main.67f252d8.css",
+    "main.js": "/dinesh-portfolio/static/js/main.0f3dc2de.js",
+    "static/js/453.8d6dff73.chunk.js": "/dinesh-portfolio/static/js/453.8d6dff73.chunk.js",
+    "static/media/dinesh.jpg": "/dinesh-portfolio/static/media/dinesh.180291ff320e45ff121f.jpg",
+    "index.html": "/dinesh-portfolio/index.html",
+    "main.67f252d8.css.map": "/dinesh-portfolio/static/css/main.67f252d8.css.map",
+    "main.0f3dc2de.js.map": "/dinesh-portfolio/static/js/main.0f3dc2de.js.map",
+    "453.8d6dff73.chunk.js.map": "/dinesh-portfolio/static/js/453.8d6dff73.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67f252d8.css",
+    "static/js/main.0f3dc2de.js"
+  ]
+}
