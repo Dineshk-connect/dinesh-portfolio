@@ -54,7 +54,11 @@ const DineshPortfolio = () => {
       <Container id="about" className="py-5">
         <h2 className="fw-bold mb-3">About Me</h2>
         <p>
-          I'm currently pursuing my MCA at The Oxford College of Engineering (2024–2026). Passionate about building modern web apps using the MERN stack. I’ve completed a Frontend Development internship at VTECH Integrated Solutions and am currently exploring DevOps technologies.
+          Hi, I’m Dinesh K — a passionate MCA student with a knack for turning ideas into working solutions. I started in web development but now focus on Java and DSA to strengthen my problem-solving skills.
+
+I recently built a Job Board Web Application using the MERN stack, showcasing my ability to create scalable, user-focused projects.
+
+I believe great code should make life better—and I’m always eager to learn, build, and collaborate.
         </p>
       </Container>
 
@@ -62,7 +66,7 @@ const DineshPortfolio = () => {
       <Container id="skills" className="py-5">
         <h2 className="fw-bold mb-3">Skills</h2>
         <div className="d-flex flex-wrap gap-2">
-          {["HTML", "CSS", "JavaScript", "React", "Node.js", "Express", "MongoDB", "MySQL", "Java", "Python", "C", "Git", "DevOps (Learning)"]
+          {["HTML", "CSS", "JavaScript", "React", "Node.js", "Express", "MongoDB", "MySQL", "Java", "Python", "C", "Git", "DSA"]
             .map(skill => <Badge bg="secondary" className="px-3 py-2" key={skill}>{skill}</Badge>)}
         </div>
       </Container>
