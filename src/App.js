@@ -328,7 +328,7 @@ function Hero() {
           >
             View Projects
           </a>
-          <a href="/DINESH K RESUME .pdf" download style={{
+          <a href="/DINESH K RESUME 2026.pdf" download style={{
             display: "inline-flex", alignItems: "center", gap: 8,
             border: `1px solid ${BORDER}`, color: TEXT_PRIMARY,
             fontFamily: "'DM Sans', sans-serif", fontWeight: 500, fontSize: 14,
